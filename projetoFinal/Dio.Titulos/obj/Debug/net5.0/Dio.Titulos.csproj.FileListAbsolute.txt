@@ -1,0 +1,16 @@
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Titulos/obj/Debug/net5.0/Dio.Titulos.csproj.AssemblyReference.cache
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Titulos/obj/Debug/net5.0/Dio.Titulos.GeneratedMSBuildEditorConfig.editorconfig
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Titulos/obj/Debug/net5.0/Dio.Titulos.AssemblyInfoInputs.cache
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Titulos/obj/Debug/net5.0/Dio.Titulos.AssemblyInfo.cs
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Titulos/obj/Debug/net5.0/Dio.Titulos.csproj.CoreCompileInputs.cache
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Titulos/bin/Debug/net5.0/Dio.Titulos
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Titulos/bin/Debug/net5.0/Dio.Titulos.deps.json
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Titulos/bin/Debug/net5.0/Dio.Titulos.runtimeconfig.json
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Titulos/bin/Debug/net5.0/Dio.Titulos.runtimeconfig.dev.json
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Titulos/bin/Debug/net5.0/Dio.Titulos.dll
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Titulos/bin/Debug/net5.0/ref/Dio.Titulos.dll
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Titulos/bin/Debug/net5.0/Dio.Titulos.pdb
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Titulos/obj/Debug/net5.0/Dio.Titulos.dll
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Titulos/obj/Debug/net5.0/ref/Dio.Titulos.dll
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Titulos/obj/Debug/net5.0/Dio.Titulos.pdb
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Titulos/obj/Debug/net5.0/Dio.Titulos.genruntimeconfig.cache

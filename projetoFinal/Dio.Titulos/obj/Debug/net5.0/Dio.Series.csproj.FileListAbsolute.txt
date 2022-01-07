@@ -1,0 +1,16 @@
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Series/bin/Debug/net5.0/Dio.Series
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Series/bin/Debug/net5.0/Dio.Series.deps.json
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Series/bin/Debug/net5.0/Dio.Series.runtimeconfig.json
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Series/bin/Debug/net5.0/Dio.Series.runtimeconfig.dev.json
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Series/bin/Debug/net5.0/Dio.Series.dll
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Series/bin/Debug/net5.0/ref/Dio.Series.dll
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Series/bin/Debug/net5.0/Dio.Series.pdb
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Series/obj/Debug/net5.0/Dio.Series.csproj.AssemblyReference.cache
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Series/obj/Debug/net5.0/Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Series/obj/Debug/net5.0/Dio.Series.AssemblyInfoInputs.cache
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Series/obj/Debug/net5.0/Dio.Series.AssemblyInfo.cs
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Series/obj/Debug/net5.0/Dio.Series.csproj.CoreCompileInputs.cache
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Series/obj/Debug/net5.0/Dio.Series.dll
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Series/obj/Debug/net5.0/ref/Dio.Series.dll
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Series/obj/Debug/net5.0/Dio.Series.pdb
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/projetoFinal/Dio.Series/obj/Debug/net5.0/Dio.Series.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/keli/.dotnet/store/|arch|/|tfm|",
+      "/home/keli/.nuget/packages"
+    ]
+  }
+}
